@@ -7,7 +7,7 @@ public class Foo {
     }
 
     void bar4(){
-        
+        System.out.println("test");
     }
 
     void bar3(){
