@@ -3,6 +3,11 @@
  */
 public class Foo {
     void bar(){
-
+        System.out.println("bar bar");
     }
+
+    void bar4(){
+        
+    }
+
 }
