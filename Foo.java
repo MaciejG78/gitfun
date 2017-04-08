@@ -10,4 +10,7 @@ public class Foo {
         
     }
 
+    void bar3(){
+        
+    }
 }
